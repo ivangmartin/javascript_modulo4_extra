@@ -1,0 +1,12 @@
+body{
+    margin: 1rem;
+}
+
+#title {
+    text-align: center;
+}
+
+#resultado{
+    color: darkgreen;
+    text-align: center;
+}
